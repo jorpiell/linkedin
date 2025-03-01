@@ -3,7 +3,7 @@ const fs = require('fs');
 
 const WIDTH = 1300;
 const HEIGHT = 350;
-const LEFT_SPACE = 325;
+const LEFT_SPACE = 400;
 const MARGIN_LEFT = LEFT_SPACE + 20;
 const MARGIN_RIGHT = 50;
 const MARGIN_TOP = 40;
